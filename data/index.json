@@ -37,6 +37,15 @@
       "totalChapters": 65
     },
     {
+      "id": "harry-potter-and-the-sorcerer-s-stone",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "description": "",
+      "totalWords": 83084,
+      "totalPages": 84,
+      "totalChapters": 17
+    },
+    {
       "id": "his-dark-materials-the-complete-trilogy",
       "title": "His Dark Materials: The Complete Trilogy",
       "author": "Philip Pullman",
@@ -289,6 +298,15 @@
       "totalChapters": 18
     },
     {
+      "id": "the-little-prince",
+      "title": "The little prince",
+      "author": "Antoine de Saint-Exupéry",
+      "description": "SUMMARY: Few stories are as widely read and as universally cherished by children and adults alike as The Little Prince. Richard Howard's new translation of the beloved classic-published to commemorate the 100th anniversary of Antoine de Saint-Exupéry's birth-beautifully reflects Saint-Exupéry's unique and gifted style. Howard, an acclaimed poet and one of the preeminent translators of our time, has excelled in bringing the English text as close as possible to the French, in language, style, and ",
+      "totalWords": 17464,
+      "totalPages": 18,
+      "totalChapters": 29
+    },
+    {
       "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
       "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
       "author": "Gabrielle Zevin",
@@ -361,5 +379,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-04T21:39:08.490Z"
+  "updatedAt": "2026-05-06T19:03:48.102Z"
 }
