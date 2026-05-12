@@ -118,6 +118,15 @@
       "totalChapters": 35
     },
     {
+      "id": "pale-fire",
+      "title": "Pale Fire",
+      "author": "Vladimir Nabokov",
+      "description": "",
+      "totalWords": 80965,
+      "totalPages": 81,
+      "totalChapters": 17
+    },
+    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -242,6 +251,15 @@
       "totalWords": 31105,
       "totalPages": 32,
       "totalChapters": 12
+    },
+    {
+      "id": "the-sound-and-the-fury",
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "description": "",
+      "totalWords": 96945,
+      "totalPages": 97,
+      "totalChapters": 20
     },
     {
       "id": "the-summer-queen",
@@ -370,5 +388,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-12T19:16:31.635Z"
+  "updatedAt": "2026-05-12T19:57:09.578Z"
 }
